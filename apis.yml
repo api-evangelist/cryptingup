@@ -45,7 +45,6 @@ apis:
 - name: CryptingUp
   description: Cryptocurrency data
   humanURL: https://www.cryptingup.com/apidoc/#introduction
-  baseURL: https://www.cryptingup.com/apidoc/#introduction
   tags:
   - Cryptocurrency
   properties:
